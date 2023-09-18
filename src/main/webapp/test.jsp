@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title></title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to Jenkins Integration Yash</h1>
-<a href="index.jsp">HomePage</a>
-<a href="test.jsp">Test</a>
+<h1>This is test page</h1>
 </body>
 </html>
